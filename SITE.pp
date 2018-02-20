@@ -1,0 +1,1 @@
+ssh -i "DevOpsToolSetUp.pem" ec2-user@ec2-18-219-75-68.us-east-2.compute.amazonaws.com
